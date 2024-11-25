@@ -14,3 +14,11 @@
 - :boom: You can visit [MY PORTFOLIO](https://portfolio-luis-baca.netlify.app) 
 - :email: lbacapalma@gmail.com
 <br>
+
+## <img src = "/Images/Right_Side.gif" width = 6.5%> My Skills
+
+### Programming languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
