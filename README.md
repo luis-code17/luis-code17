@@ -7,7 +7,7 @@
 
 <!--About Me-->
 
-## <img src = "![/Images/about_me.gif](https://github.com/luis-code17/luis-code17/blob/main/Images/about_me.gif)" width = 6.5%> About me
+## <img src = "/Images/about_me.gif" width = 6.5%> About me
 
 - :school: I am a `Student` at [CFGS Multiplatform Applications Development](https://inscastellet.cat/pla-destudis-cgs-dam/) in [IES CASTELLET](https://inscastellet.cat)
 - :technologist: **Currently working with** `Vue`**,** `Astro`**,** `Unity`**,** `Java` **&** `Python`
