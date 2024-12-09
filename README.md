@@ -32,7 +32,7 @@
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=Astro&logoColor=white)
 
-## <img src = "/Images/Connect-with-me.gif" width = 6.5%>
+## <img src = "/Images/Connect-with-me.gif" width = 25%>
 <div align="center" style="background:#414a50; padding: 25px 0;">
     <a href="https://www.linkedin.com/in/luis-alejandro-baca-palma-a61a6b2ba/">
         <img src="/Images/linkedin.png" alt="Connect on Linkedin">
