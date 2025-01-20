@@ -10,7 +10,7 @@
 ## <img src = "/Images/about_me.gif" width = 6.5%> About me
 
 - :school: I am a `Student` at [CFGS Multiplatform Applications Development](https://inscastellet.cat/pla-destudis-cgs-dam/) in [IES CASTELLET](https://inscastellet.cat)
-- :technologist: **Currently working with** `Vue`**,** `Astro`**,** `Unity`**,** `Java` **&** `Python`
+- :technologist: **Currently working with** `Vue`**,** `Astro`**,**`React`**,**`Unity`**,** `Java` **&** `Python`
 - :boom: You can visit [MY PORTFOLIO](https://portfolio-luis-baca.netlify.app) 
 - :email: lbacapalma@gmail.com
 <br>
@@ -31,6 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=Astro&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
 ## <img src = "/Images/Connect-with-me.gif" width = 25%>
 <div align="center" style="background:#414a50; padding: 25px 0;">
