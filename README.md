@@ -11,7 +11,6 @@
 
 - :school: I am a `Student` at [CFGS Multiplatform Applications Development](https://inscastellet.cat/pla-destudis-cgs-dam/) in [IES CASTELLET](https://inscastellet.cat)
 - :technologist: **Currently working with** `Vue`**,** `Astro`**,**`React`**,**`Unity`**,** `Java` **&** `Python`
-- :boom: You can visit [MY PORTFOLIO](https://portfolio-luis-baca.netlify.app) 
 - :email: lbacapalma@gmail.com
 <br>
 
