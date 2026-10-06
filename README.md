@@ -61,10 +61,11 @@
   <a href="https://www.linkedin.com/in/luis-alejandro-baca-palma-a61a6b2ba/">
     <img src="/Images/linkedin.png" alt="LinkedIn">
   </a>
-  <a href="https://luis-dev-two.vercel.app/" target="_blank">
-    <img src="/Images/portfolio.png" alt="Portfolio">
-  </a>
   <a href="mailto:lbacapalma@gmail.com">
     <img src="/Images/gmail.png" alt="Email">
+  </a>
+  <br><br>
+  <a href="https://luis-dev-two.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-luis--dev--two.vercel.app-2C3452?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </div>
